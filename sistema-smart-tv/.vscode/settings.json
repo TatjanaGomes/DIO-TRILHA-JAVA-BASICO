@@ -1,0 +1,40 @@
+{
+    "java.project.sourcePaths": [
+        "src"
+    ],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar"
+    ],
+    "java.debug.settings.onBuildFailureProceed": true,
+    "cSpell.words": [
+        "assim",
+        "Atual",
+        "Aumentando",
+        "aumentar",
+        "aumentará",
+        "características",
+        "classe",
+        "correspondente",
+        "criar",
+        "definindo",
+        "desligar",
+        "diminuir",
+        "diminuirá",
+        "estado",
+        "exemplo",
+        "Exercício",
+        "Exercitando",
+        "ligada",
+        "ligar",
+        "mudar",
+        "Nossa",
+        "número",
+        "onde",
+        "poderá",
+        "representar",
+        "tenha",
+        "Usuario",
+        "Vamos"
+    ]
+}
